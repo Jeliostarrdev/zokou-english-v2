@@ -29,12 +29,12 @@
     },
     "PM_PERMIT": {
       "description": "Other users can't use your bot in private messages (type yes to activate or no to deactivate; don't write in capital letters)",
-      "value": "no",
+      "value": "yes",
       "required": false
     },
     "BOT_NAME": {
       "description": "put a name for your bot",
-      "value": "Zokou-MD",
+      "value": "Jelio-MD",
       "required": false
     },
     "BOT_MENU_LINKS": {
@@ -57,7 +57,7 @@
     },
     "SESSION_ID": {
       "description": "put your session ID, the code you receive after scanning the QR code",
-      "value": "",
+      "value": "Zokou-MD-WHATSAPP-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieURZaW1jZm1wdFpGblY3QzF4UUZRMm13dHRVWjBHb1pVQlZoYXErUnVFVT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiejdEQkllaVR4ci9ibmp5Vit5QVdvbzJUQ3FTWWZUUEc2M2FBN2FyQ2xHdz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJXUEllZWMyMUNlQUV5ZVRnQUd6cmRCWlorelN6Wlg0RGwyUi84dmRxcW1JPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJoZlBLTHUxcUdoZGlGRzNValJva00yeDArcGJjdkd4cVJwdlRJTnBQZVZVPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImVJWjA0TU5tMUVzZVJTNmlUbVAyK1E2UGNsRUMvZFhsbzhBanRwM3dPbms9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InNWNlNDSlNVbW1wWnM0S3dtQUJuTTEyNjFFN1U4SVZFdkZHVlRzYzJXSFU9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoia0IxYnVyTkw3YlVJQjJHVW4wVTJGaCswSzNGc0lRckpMVVdiU0pNNDdVMD0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiRk5KeWFLdiszd0syVlR0RlhTQTMxb2g5SHJCZ1F5ZGtYNGFybXhLQmtqVT0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlR0VThoaEVSbmZJeGtLb2NMdXpWeU1aNTVMRyszSmNkaXFCd3AxTjVEd29Zd05FdnpYU0x4a21uZnJ3Wm1mZmlpMmUxWTdvSE56dGFZUWtpajUrb2pBPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjE2LCJhZHZTZWNyZXRLZXkiOiJIRU84ZmJFVXA4RDAzbHR5Um1QS2IreGVaZXBab3lRQUd2NFVrNXZoeHJBPSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MSwiZmlyc3RVbnVwbG9hZGVkUHJlS2V5SWQiOjEsImFjY291bnRTeW5jQ291bnRlciI6MCwiYWNjb3VudFNldHRpbmdzIjp7InVuYXJjaGl2ZUNoYXRzIjpmYWxzZX0sInJlZ2lzdGVyZWQiOnRydWUsInBhaXJpbmdDb2RlIjoiMzc5S1MzVk0iLCJtZSI6eyJpZCI6IjI1Njc2NjIzODkxNToyOEBzLndoYXRzYXBwLm5ldCIsIm5hbWUiOiJKZWxpbyBTdGFyciBEZXYifSwiYWNjb3VudCI6eyJkZXRhaWxzIjoiQ0tLYWhFZ1Exb2lldlFZWUN5QUFLQUE9IiwiYWNjb3VudFNpZ25hdHVyZUtleSI6Ii9DY1kweFN1Q0huU1hIc0JCOGlaYWZZTVFSaUgxSVB4eVh3aVJ4bGNyQkU9IiwiYWNjb3VudFNpZ25hdHVyZSI6ImlCWXd4Y1k1WjVJSjlYMHEzMG5xcEZlTlNQRWsvT0dza0dWcGxTR1BzZExqKzIwbFMzZyswdndDcGVNd3U1Tm1PZEhhTDExZHRFcmJjZFFWZGNnb0NBPT0iLCJkZXZpY2VTaWduYXR1cmUiOiIzZFEwb3JpbFNpcXhNVGVhb1IySGxCT2V6S21Nb0RHRnZsOEtQWXZuRXFUZ3lNdFlIOEFsUFI4QWw4MkdCcWdKTlJVN2RVRHgzY1VzaXUwR2QwTjJnUT09In0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjI1Njc2NjIzODkxNToyOEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJmd25HTk1VcmdoNTBseDdBUWZJbVduMkRFRVloOVNEOGNsOElrY1pYS3dSIn19XSwicGxhdGZvcm0iOiJzbWJhIn0=",
       "required": true
     },
     "OWNER_NAME": {
