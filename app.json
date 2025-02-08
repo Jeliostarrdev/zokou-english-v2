@@ -63,12 +63,12 @@
     "OWNER_NAME": {
       "description": "Your Name",
       "required": false,
-      "value": "Djalega++"
+      "value": "Jeliostarrdev"
     },
     "NUMERO_OWNER": {
       "description": "Your number, don't put '+' and include your area code (example for Togo '228')",
       "required": false,
-      "value": "22891733300"
+      "value": "256766238915"
     },
     "WARN_COUNT": {
       "description": "this is the limit of warnings for warning commands",
@@ -82,7 +82,7 @@
     },
     "PRESENCE": {
       "description": "Mark your presence: 1 to indicate that you are online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-      "value": "",
+      "value": "1",
       "required": false
     },
     "PM_CHATBOT": {
